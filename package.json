@@ -1,0 +1,17 @@
+{
+  "name": "tp5-contratacion-digital-seguros",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.0",
+    "basecoat-css": "^1.1.0",
+    "tailwindcss": "^4.1.0",
+    "vite": "^6.0.0"
+  }
+}

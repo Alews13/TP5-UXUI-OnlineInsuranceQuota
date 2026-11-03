@@ -1,0 +1,23 @@
+[
+  {
+    "id": "basico",
+    "name": "Básico",
+    "annualRate": 0.04,
+    "recommended": false,
+    "coverages": ["Robo con violencia"]
+  },
+  {
+    "id": "plus",
+    "name": "Plus",
+    "annualRate": 0.06,
+    "recommended": true,
+    "coverages": ["Robo con violencia", "Rotura de pantalla"]
+  },
+  {
+    "id": "premium",
+    "name": "Premium",
+    "annualRate": 0.09,
+    "recommended": false,
+    "coverages": ["Robo", "Rotura total", "Hurto / pérdida"]
+  }
+]
