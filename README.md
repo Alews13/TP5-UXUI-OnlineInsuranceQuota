@@ -174,13 +174,7 @@ La captura de la implementación en mobile está pendiente. `referencias/image.p
 
 ![Referencia visual parcial de Figma para mobile](./referencias/image.png)
 
-La comparación completa con las vistas Desktop · 1440 y Mobile · 390 queda pendiente.
-
 ## Publicación
 
 La aplicación esta desplegada en la infraestructura Netlify.
 [LINK](https://segurosonlinefcyt.netlify.app/#exito)
-
-## Bonus
-
-No se comprobó ningún bonus implementado. La interfaz muestra una promoción de “20% OFF” para el primer mes, pero el cálculo y el resumen no aplican ese descuento.
